@@ -1,3 +1,7 @@
+Carleton University workshop, Nov. 2021
+https://romeopenheiro.github.io/2021-11-12-CU-online/
+Here enter info that is relevant to the learners in the workshop. 
+
 [![Build Status](https://travis-ci.com/carpentries/workshop-template.svg?branch=gh-pages)](https://travis-ci.com/carpentries/workshop-template)
 
 # The Carpentries Workshop Template
