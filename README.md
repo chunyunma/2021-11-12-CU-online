@@ -1,4 +1,4 @@
-Carleton University workshop, Nov. 2021
+Carleton University workshop, 23-24 October 2021
 https://romeopenheiro.github.io/2021-11-12-CU-online/
 Here enter info that is relevant to the learners in the workshop. 
 
